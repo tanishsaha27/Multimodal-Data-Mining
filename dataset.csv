@@ -1,0 +1,7 @@
+image_path,caption,label
+images/dog.jpg,A dog playing in park,1
+images/cat.jpg,A cute cat sitting,1
+images/car.jpg,A car on road,0
+images/bike.jpg,A bike parked,0
+images/child.jpg,A happy child,1
+images/building.jpg,A tall building,0
